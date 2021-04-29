@@ -14,6 +14,12 @@
 
 ## 使用 & Usage
 
+```C
+pod 'AppleDevices'
+
+#import <AppleDevices/AppleDevice.h>
+```
+
 ####  NSString * currentDeviceName
 
 > * 识别当前设备型号
