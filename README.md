@@ -47,12 +47,17 @@ AppleDevice.isNotchDesignStyle  // true
 ## 更新记录 & Change Log
 
 - 2021-4-29 `...`
+- 2021-10-24 `支持iPhone 13系列`
 
 ## 已适配机型 & Supported Devices
 
 ### iPhone
 
 
+- [x] iPhone 13 Pro Max
+- [x] iPhone 13 Pro
+- [x] iPhone 13
+- [x] iPhone 13 mini
 - [x] iPhone 12 Pro Max
 - [x] iPhone 12 Pro
 - [x] iPhone 12
