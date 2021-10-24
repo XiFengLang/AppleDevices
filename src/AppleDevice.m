@@ -88,6 +88,11 @@ static NSString * jk_deviceModel;
 
 + (NSString *)appraiseiPhoneModelWithMachineNumber:(NSString *)machineNumber {
     NSDictionary * const devices = @{
+        @"iPhone14,3":@"iPhone 13 Pro Max",
+        @"iPhone14,2":@"iPhone 13 Pro",
+        @"iPhone14,5":@"iPhone 13",
+        @"iPhone14,4":@"iPhone 13 mini",
+        
         @"iPhone13,4":@"iPhone 12 Pro Max",
         @"iPhone13,3":@"iPhone 12 Pro",
         @"iPhone13,2":@"iPhone 12",
